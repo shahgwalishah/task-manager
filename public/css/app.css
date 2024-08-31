@@ -1,0 +1,16 @@
+#task-list{
+    list-style: none;
+    padding-left: 0px;
+}
+#task-list > li {
+    cursor:pointer;
+    margin-bottom:20px;
+}
+#projects-list{
+    list-style: none;
+    padding-left: 0px;
+}
+#projects-list > li {
+    cursor:pointer;
+    margin-bottom:20px;
+}
